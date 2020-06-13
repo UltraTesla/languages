@@ -1,0 +1,33 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-06-11 22:37-0400\n"
+"PO-Revision-Date: 2020-06-12 19:34-0400\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: DtxdF <DtxdF@protonmail.com>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: hu_HU\n"
+
+msgid "Configuración del par de claves"
+msgstr "Kulcspár konfiguráció"
+
+msgid "Generar el par de claves para el usuario"
+msgstr "Generálja a kulcspárt a felhasználó számára"
+
+msgid "El tamaño de la clave en bit's"
+msgstr "A kulcs mérete bitben"
+
+msgid "El nombre del archivo para almacenar la clave pública"
+msgstr "A nyilvános kulcsot tároló fájl neve"
+
+msgid "El nombre del archivo para almacenar la clave privada"
+msgstr "A magánkulcs tárolására szolgáló fájl neve"

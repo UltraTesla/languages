@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-06-11 20:56-0400\n"
+"PO-Revision-Date: 2020-06-12 20:07-0400\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: DtxdF <DtxdF@protonmail.com>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: hu_HU\n"
+
+msgid "Credenciales"
+msgstr "Hitelesítő adatok"
+
+msgid "Agregar un usuario"
+msgstr "Adjon hozzá egy felhasználót"
+
+msgid "El nombre de usuario"
+msgstr "A felhasználónév"
+
+msgid "La contraseña del usuario"
+msgstr "Felhasználói jelszó"
+
+msgid "La clave pública del usuario a registrar"
+msgstr "A felhasználó nyilvános kulcsa a regisztrációhoz"
+
+msgid "Límites del token por usuario"
+msgstr "Token korlátozások felhasználónként"
+
+msgid "Sobre-escribir la clave pública (en caso de que exista)"
+msgstr "Írja felül a nyilvános kulcsot (ha létezik)"
+
+msgid ""
+"La cantidad del cálculo realizado, y por lo tanto, el tiempo de ejecución "
+"dado el número de iteraciones"
+msgstr ""
+"A végrehajtott számítás mennyisége, és így a végrehajtási idő, az "
+"iterációk számával"
+
+msgid "La cantidad de memoria a utilizar"
+msgstr "A felhasznált memória mennyisége"
+
+msgid "La cantidad de subprocesos paralelos"
+msgstr "A párhuzamos szálak száma"

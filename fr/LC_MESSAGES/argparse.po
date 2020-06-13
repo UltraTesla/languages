@@ -1,0 +1,139 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-06-11 14:27-0400\n"
+"PO-Revision-Date: 2020-06-12 16:26-0400\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: DtxdF <DtxdF@protonmail.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr\n"
+
+#: /usr/lib/python3.8/argparse.py:295
+msgid "usage: "
+msgstr "Utilisation: "
+
+#: /usr/lib/python3.8/argparse.py:846
+msgid ".__call__() not defined"
+msgstr ".__call__() non défini"
+
+#: /usr/lib/python3.8/argparse.py:1149
+msgid "unknown parser %(parser_name)r (choices: %(choices)s)"
+msgstr "analyseur inconnu %(parser_name)r (choix : %(choices)s)"
+
+#: /usr/lib/python3.8/argparse.py:1209
+msgid "argument \"-\" with mode %r"
+msgstr "argument «-» avec le mode %r"
+
+#: /usr/lib/python3.8/argparse.py:1218
+msgid "can't open '%(filename)s': %(error)s"
+msgstr "impossible d’ouvrir '%(filename)s': %(error)s"
+
+#: /usr/lib/python3.8/argparse.py:1427
+msgid "cannot merge actions - two groups are named %r"
+msgstr "impossible de fusionner les actions - deux groupes sont nommés %r"
+
+#: /usr/lib/python3.8/argparse.py:1465
+msgid "'required' is an invalid argument for positionals"
+msgstr "«ress» est un argument non valide pour les positions"
+
+#: /usr/lib/python3.8/argparse.py:1487
+msgid ""
+"invalid option string %(option)r: must start with a character "
+"%(prefix_chars)r"
+msgstr ""
+"Chaîne d’option non valide %(option)r : doit commencer par un caractère "
+"%(prefix_chars)r"
+
+#: /usr/lib/python3.8/argparse.py:1507
+msgid "dest= is required for options like %r"
+msgstr "dest= est requis pour des options telles que %r"
+
+#: /usr/lib/python3.8/argparse.py:1524
+msgid "invalid conflict_resolution value: %r"
+msgstr "valeur conflict_resolution non valide : %r"
+
+#: /usr/lib/python3.8/argparse.py:1608
+msgid "mutually exclusive arguments must be optional"
+msgstr "les arguments mutuellement exclusifs doivent être facultatifs"
+
+#: /usr/lib/python3.8/argparse.py:1671
+msgid "positional arguments"
+msgstr "arguments de position"
+
+#: /usr/lib/python3.8/argparse.py:1672
+msgid "optional arguments"
+msgstr "arguments facultatifs"
+
+#: /usr/lib/python3.8/argparse.py:1687
+msgid "show this help message and exit"
+msgstr "afficher ce message d’aide et de quitter"
+
+#: /usr/lib/python3.8/argparse.py:1718
+msgid "cannot have multiple subparser arguments"
+msgstr "ne peut pas avoir plusieurs arguments de sous-parseur"
+
+#: /usr/lib/python3.8/argparse.py:1770 /usr/lib/python3.8/argparse.py:2277
+msgid "unrecognized arguments: %s"
+msgstr "arguments non reconnus : %s"
+
+#: /usr/lib/python3.8/argparse.py:1867
+msgid "not allowed with argument %s"
+msgstr "non autorisé avec argument %s"
+
+#: /usr/lib/python3.8/argparse.py:1913 /usr/lib/python3.8/argparse.py:1927
+msgid "ignored explicit argument %r"
+msgstr "argument explicite ignoré %r"
+
+#: /usr/lib/python3.8/argparse.py:2034
+msgid "the following arguments are required: %s"
+msgstr "Les arguments suivants sont requis : %s"
+
+#: /usr/lib/python3.8/argparse.py:2049
+msgid "one of the arguments %s is required"
+msgstr "l’un des arguments %s est requis"
+
+#: /usr/lib/python3.8/argparse.py:2092
+msgid "expected one argument"
+msgstr "attendu un argument"
+
+#: /usr/lib/python3.8/argparse.py:2093
+msgid "expected at most one argument"
+msgstr "attendu tout au plus un argument"
+
+#: /usr/lib/python3.8/argparse.py:2094
+msgid "expected at least one argument"
+msgstr "attendu au moins un argument"
+
+#: /usr/lib/python3.8/argparse.py:2156
+msgid "ambiguous option: %(option)s could match %(matches)s"
+msgstr ""
+"option ambiguë: les %(options)s peuvent correspondre à %(matches)s"
+
+#: /usr/lib/python3.8/argparse.py:2220
+msgid "unexpected option string: %s"
+msgstr "chaîne d’option inattendue: %s"
+
+#: /usr/lib/python3.8/argparse.py:2417
+msgid "%r is not callable"
+msgstr "%r n’est pas callable"
+
+#: /usr/lib/python3.8/argparse.py:2434
+msgid "invalid %(type)s value: %(value)r"
+msgstr "valeur non valide %(type)s : %(value)r"
+
+#: /usr/lib/python3.8/argparse.py:2445
+msgid "invalid choice: %(value)r (choose from %(choices)s)"
+msgstr "choix non valide : %(value)r (choisissez parmi %(choices)s)"
+
+#: /usr/lib/python3.8/argparse.py:2521
+msgid "%(prog)s: error: %(message)s\n"
+msgstr "%(prog)s: erreur: %(message)s\n"

@@ -1,0 +1,338 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-06-10 20:12-0400\n"
+"PO-Revision-Date: 2020-06-12 17:50-0400\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: DtxdF <DtxdF@protonmail.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr\n"
+
+msgid "Verificando la validez de la contraseña..."
+msgstr "Vérification de la validité du mot de passe..."
+
+msgid "Cerrando conexión con MySQL..."
+msgstr "Connexion de fermeture avec MySQL..."
+
+msgid "Leyendo archivo SQL inicial: %s"
+msgstr "Lecture du fichier SQL initial: %s"
+
+msgid "Creando base de datos: %s"
+msgstr "Création de base de données: %s"
+
+msgid "Conectando a MySQL de forma sincrónica..."
+msgstr "Connexion à MySQL de façon synchrone..."
+
+msgid "Usuario \"%s\" eliminado."
+msgstr "Utilisateur «%s» supprimé."
+
+msgid "Borrando clave pública: %s"
+msgstr "Suppression de la clé publique: %s"
+
+msgid "Borrando usuario \"%s\" :-("
+msgstr "Suppression de l’utilisateur «%s» :-("
+
+msgid "Hecho."
+msgstr "Fait."
+
+msgid "Generando \"%s\"..."
+msgstr "Générer des «%s»..."
+
+msgid "Ocurrió un error con la petición: %s"
+msgstr "Une erreur s’est produite avec la demande: %s"
+
+msgid "El código de estado no es el correspondiente: %s"
+msgstr "Le code d’état n’est pas le code correspondant: %s"
+
+msgid "Copiando \"%s\" a \"%s\"..."
+msgstr "Copier «%s» à «%s»..."
+
+msgid ""
+"El servicio \"%s\" no se agregará o actualizará ya que no se ha modificado"
+msgstr ""
+"Le service «%s» ne sera pas ajouté ou mis à jour car il n’a pas été modifié"
+
+msgid "Actualizando servicio \"%s\" de la red \"%s\""
+msgstr "Mise à jour du service «%s» sur le réseau «%s»"
+
+msgid "Error en la respuesta: %s"
+msgstr "Échec de la réponse: %s"
+
+msgid "Agregando servicio \"%s\" de la red \"%s\""
+msgstr "Ajout du service «%s» sur le réseau «%s»"
+
+msgid "No se incluirá el servicio %s porque sólo se prefieren"
+msgstr ""
+"Les %s de service ne seront pas inclus parce qu’ils ne sont que préférés"
+
+msgid "La red \"%s\" no existe, pero se agregará..."
+msgstr "Le réseau «%s» n’existe pas, mais sera ajouté..."
+
+msgid "Petición satisfactoria, almacenando servicios..."
+msgstr "Demande réussie, stockage des services..."
+
+msgid "Obteniendo servicios..."
+msgstr "Obtenir des services..."
+
+msgid "Se creó con éxito: %s"
+msgstr "Il a été créé avec succès: %s"
+
+msgid "Copiando clave pública \"%s\" a \"%s\""
+msgstr "Copie de la clé publique «%s» à «%s»"
+
+msgid "Hash generado \"%s\" en %.2f"
+msgstr "Hash généré «%s» en %.2f"
+
+msgid "Generando hash..."
+msgstr "Générer du hachage..."
+
+msgid "Creando usuario: %s"
+msgstr "Création d’un utilisateur : %s"
+
+msgid "No es posible establecer una clave menor a 1024 bit's"
+msgstr "Il n’est pas possible de définir une clé inférieure à 1024 bits"
+
+msgid "Creando nuevo usuario: Username=%s, Password=%s, Token-Limit=%d"
+msgstr ""
+"Création d’un nouvel utilisateur: nom d’utilisateur=%s, Mot de passe=%s, "
+"Token-Limit=%d"
+
+msgid ""
+"El servicio \"%s\" no se agregará o actualizará porque está en la lista de "
+"exclusión"
+msgstr ""
+"Le service «%s» ne sera pas ajouté ou mis à jour car il est sur la liste "
+"d’exclusion"
+
+msgid "No se pudo crear el token, puede ser que haya expirado: %s"
+msgstr "Échec de la création du jeton, peut avoir expiré: %s"
+
+msgid "Token generado con éxito: %s"
+msgstr "Jeton généré avec succès: %s"
+
+msgid "Generando e insertando token..."
+msgstr "Générer et insérer des jetons..."
+
+msgid "¡(%d) %s se pondrá en interacción con el sistema!"
+msgstr "(%d) %s seront en interaction avec le système!"
+
+msgid "Creando un nuevo token para el identificador de usuario: ID:%d"
+msgstr "Création d’un nouveau jeton pour l’ID utilisateur: ID:%d"
+
+msgid "Borrando token: %s"
+msgstr "Jeton de suppression: %s"
+
+msgid "¡Borrando usuario con el identificador: ID:%d!"
+msgstr "Suppression de l’utilisateur avec ID: ID:%d!"
+
+msgid "Creando nuevo usuario: %s"
+msgstr "Création d’un nouvel utilisateur: %s"
+
+msgid "¡Datos escritos en la base de datos con éxito!"
+msgstr "Données écrites dans la base de données avec succès!"
+
+msgid "El token \"%s\" se ha eliminado por su fecha de expiración"
+msgstr "Le jeton «%s» a été supprimé à sa date d’expiration"
+
+msgid "%s no está en la lista blanca del encabezado 'Host'"
+msgstr "%s n’est pas inscrit sur la liste blanche dans l’en-tête 'Host'"
+
+msgid "¡La dirección \"%s\" no forma parte de la red!"
+msgstr "L’adresse «%s» ne fait pas partie du réseau!"
+
+msgid ""
+"¡El servicio o sub-servicio de \"%s\" no es correcto o no está permitido!"
+msgstr ""
+"Le service ou le sous-service de «%s» n’est pas correct ou non autorisé!"
+
+msgid "¡El esquema de \"%s\" no es correcto!"
+msgstr "Le schéma des «%s» n’est pas correct !"
+
+msgid "¡La dirección está vacía!"
+msgstr "L’adresse est vide!"
+
+msgid "Enviando datos al usuario \"%s\" (%s) - %s %s"
+msgstr "Envoi de données à l’utilisateur «%s» (%s) - %s %s"
+
+msgid "Se ha accedido a MATCH(\"%s\", \"%s\")"
+msgstr "MATCH(«%s», «%s») a été consulté"
+
+msgid "Es el directorio raíz, no se hace nada..."
+msgstr "C’est le répertoire racine, rien n’est fait..."
+
+msgid "Verificando la existencia de la ruta..."
+msgstr "Vérification de l’existence de l’itinéraire..."
+
+msgid "Descifrando datos del identificador \"%s\"..."
+msgstr "Décryptage des données de l’identificateur «%s»..."
+
+msgid "Cifrando la respuesta para el usuario \"%s\""
+msgstr "Chiffrement de la réponse pour l’utilisateur «%s»"
+
+msgid "Usando clave pública (%s) del usuario \"%s\" para responder..."
+msgstr "Utilisation de la clé publique (%s) pour repeupler l’utilisateur %s..."
+
+msgid "Cifrando datos con el usuario \"%s\"..."
+msgstr "Chiffrement des données avec l’utilisateur «%s»..."
+
+msgid "Escuchando en %s:%d"
+msgstr "Écoute en %s:%d"
+
+msgid "Iniciando..."
+msgstr "démarrage..."
+
+msgid "Comprobando la existencia de: %s"
+msgstr "Vérification de l’existence de: %s"
+
+msgid "¡%s no existe!"
+msgstr "%s n’existe pas!"
+
+msgid "¡Las claves RSA no existen!"
+msgstr "Les clés RSA n’existent pas!"
+
+msgid "Generando claves RSA..."
+msgstr "Générer des clés RSA..."
+
+msgid "Generando %d bits para el par de claves RSA..."
+msgstr "Générer des bits %d pour la paire de clés RSA..."
+
+msgid "¡Claves RSA generadas con éxito!"
+msgstr "Clés RSA générées avec succès!"
+
+msgid "Escribiendo clave pública en el disco (%s)..."
+msgstr "Rédaction de la clé publique sur le disque (%s)..."
+
+msgid "Escribiendo clave privada en el disco (%s)..."
+msgstr "Écriture de la clé privée sur le disque (%s)..."
+
+msgid "¡El par de claves RSA están incompletas!"
+msgstr "La paire de clés RSA est incomplète!"
+
+msgid "Importando clave pública: %s"
+msgstr "Importation de clé publique: %s"
+
+msgid "Importando clave privada: %s"
+msgstr "Importation de clé privée: %s"
+
+msgid "¡Claves RSA importadas con éxito!"
+msgstr "Clés RSA importées avec succès!"
+
+msgid "Habilitando SSL..."
+msgstr "Activation de SSL..."
+
+msgid "El certificado \"%s\" no existe"
+msgstr "Le certificat «%s» n’existe pas"
+
+msgid "La clave \"%s\" no existe"
+msgstr "Les «%s» clés n’existent pas"
+
+msgid "No se puede habilitar SSL, mientras la clave o el certificado no existe"
+msgstr ""
+"SSL ne peut pas être activé, alors que la clé ou le certificat n’existe pas"
+
+msgid "Usando SSL: CERT:%s - KEY:%s"
+msgstr "Utilisation de SSL: CERT:%s - KEY:%s"
+
+msgid "Lista blanca de host's: %s"
+msgstr "Liste blanche de l’hôte: %s"
+
+msgid "Habilitando proxy..."
+msgstr "Activation du proxy..."
+
+msgid "Usando proxy: %s://%s:%d con resolución DNS remota %s"
+msgstr "Utilisation du proxy: %s://%s:%d avec résolution DNS distante %s"
+
+msgid "Iniciando el núcleo..."
+msgstr "Démarrage du noyau..."
+
+msgid ""
+"No se puede usar SSL sin antes haber definido la ruta de la clave o el "
+"certificado"
+msgstr ""
+"SSL ne peut pas être utilisé sans avoir d’abord défini le chemin d’accès ou "
+"le certificat de clé"
+
+msgid "Terminado: %d"
+msgstr "Terminé: %d"
+
+msgid "Excepción captada en el complemento \"%s\" (%s) en la línea \"%d\": %s"
+msgstr "Exception prise dans le plugin «%s» (%s) sur la ligne «%d»: %s"
+
+msgid "Excepción captada en el complemento \"%s\" (%s): %s"
+msgstr "Exception prise dans le plugin «%s» (%s): %s"
+
+msgid "Ocurrió una excepción en un complemento \"%s\":"
+msgstr "Une exception s’est produite dans un module de complément «%s» :"
+
+msgid "El complemento \"%s\" no provee la información necesaria"
+msgstr "L’add-on «%s» ne fournit pas les informations nécessaires"
+
+msgid "La función \"MainParser\" no se encuentra en el complemento \"%s\""
+msgstr "La fonction «MainParser» ne se trouve pas dans le plugin «%s»"
+
+msgid ""
+"¡Los parámetros a analizar del complemento \"%s\" no están siguiendo un tipo "
+"de dato válido!"
+msgstr ""
+"Les paramètres à analyser à partir du plugin «%s» ne suivent pas un type de "
+"données valide!"
+
+msgid ""
+"El tipo de dato del nombre del grupo \"%s\" o el de los parámetros de éste "
+"en el complemento \"%s\" no es correcto"
+msgstr ""
+"Le type de données du nom du groupe «%s» ou le type de paramètres du groupe "
+"dans le plugin «%s» n’est pas correct"
+
+msgid ""
+"El tipo de dato de los argumentos identificados por el número \"%d\" no son "
+"correctos en el grupo \"%s\" sobre el complemento \"%s\""
+msgstr ""
+"Le type de données des arguments identifiés par le nombre «%d» ne sont pas "
+"corrects dans le groupe «%s» au-dessus du plugin «%s» au-dessus de l’add-on "
+"«%s»"
+
+msgid ""
+"¡Los parámetros del grupo \"%s\" en el complemento \"%s\" no cuentan con una "
+"clave necesaria!"
+msgstr ""
+"Les paramètres du groupe «%s» dans le plugin «%s» n’ont pas de clé requise!"
+
+msgid "Ocurrió una excepción al agregar el complemento \"%s\": %s"
+msgstr "Une exception s’est produite lors de l’ajout du plugin «%s»: %s"
+
+msgid "Ocurrió una excepción inesperada:"
+msgstr "Une exception inattendue s’est produite:"
+
+msgid ""
+"Ocurrió un posible error referente a la petición o a un contexto relacionado "
+"a ella: %s"
+msgstr ""
+"Une erreur possible s’est produite concernant la demande ou un contexte qui "
+"y est lié: %s"
+
+msgid "Error de procesamiento: %s"
+msgstr "Erreur de traitement: %s"
+
+msgid "Ocurrió un posible error de ejecución: %s"
+msgstr "Une erreur d’exécution possible s’est produite: %s"
+
+msgid "Ocurrió un error al conectar a \"%s\": %s"
+msgstr "Une erreur s’est produite lors de la connexion à «%s»: %s"
+
+msgid "Ocurrió un error listando algún directorio o operando con un archivo"
+msgstr ""
+"Une erreur s’est produite en énumérant un répertoire ou opérant avec un "
+"fichier"
+
+msgid "Ocurrió un error inesperado en alguna operación: %s"
+msgstr "Une erreur inattendue s’est produite dans certaines opérations: %s"
