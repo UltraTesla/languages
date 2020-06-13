@@ -6,17 +6,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2020-06-10 20:12-0400\n"
-"PO-Revision-Date: 2020-06-13 13:09-0400\n"
+"PO-Revision-Date: 2020-06-13 16:41-0400\n"
+"Last-Translator: DtxdF <DtxdF@protonmail.com>\n"
 "Language-Team: \n"
+"Language: ru_RU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: pygettext.py 1.5\n"
 "X-Generator: Poedit 2.3\n"
-"Last-Translator: DtxdF <DtxdF@protonmail.com>\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
-"Language: ru_RU\n"
 
 msgid "Verificando la validez de la contraseña..."
 msgstr "Проверка достоверности пароля..."
@@ -25,13 +25,13 @@ msgid "Cerrando conexión con MySQL..."
 msgstr "Закрытие связи с MyS'L..."
 
 msgid "Leyendo archivo SQL inicial: %s"
-msgstr "Чтение исходного файла S'L: %s"
+msgstr "Чтение файла Sql: %s"
 
 msgid "Creando base de datos: %s"
 msgstr "Создание базы данных: %s"
 
 msgid "Conectando a MySQL de forma sincrónica..."
-msgstr "Подключение к MyS'L синхронно..."
+msgstr "Подключение к MySQL синхронно..."
 
 msgid "Usuario \"%s\" eliminado."
 msgstr "Пользователь «%s» удален."
@@ -47,9 +47,6 @@ msgstr "Факт."
 
 msgid "Generando \"%s\"..."
 msgstr "Генерация «%s»..."
-
-msgid "Ocurrió un error con la petición: %s"
-msgstr "Ошибка произошла с запросом: %s"
 
 msgid "El código de estado no es el correspondiente: %s"
 msgstr "Код статуса не является соответствующим: %s"
@@ -110,6 +107,9 @@ msgid ""
 msgstr ""
 "Услуга «%s» не будет добавлена или обновлена, так как она находится в списке "
 "исключений"
+
+msgid "Ocurrió un error con la petición: %s"
+msgstr "Ошибка произошла с запросом: %s"
 
 msgid "No se pudo crear el token, puede ser que haya expirado: %s"
 msgstr "Не удалось создать токен, возможно, истек: %s"
@@ -330,3 +330,6 @@ msgstr "Произошла ошибка, в которой перечислен�
 
 msgid "Ocurrió un error inesperado en alguna operación: %s"
 msgstr "Неожиданная ошибка произошла в некоторых операциях: %s"
+
+msgid "Aún no hay complementos..."
+msgstr "Есть нет дополнений еще ..."

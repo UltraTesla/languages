@@ -44,9 +44,6 @@ msgstr ""
 msgid "Generando "%s"..."
 msgstr ""
 
-msgid "Ocurrió un error con la petición: %s"
-msgstr ""
-
 msgid "El código de estado no es el correspondiente: %s"
 msgstr ""
 
@@ -298,4 +295,7 @@ msgid "Ocurrió un error listando algún directorio "
 msgstr ""
 
 msgid "Ocurrió un error inesperado en alguna operación: %s"
+msgstr ""
+
+msgid "Aún no hay complementos..."
 msgstr ""
