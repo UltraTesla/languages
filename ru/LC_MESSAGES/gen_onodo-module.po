@@ -1,0 +1,27 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-06-11 23:44-0400\n"
+"PO-Revision-Date: 2020-06-13 12:10-0400\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: DtxdF <DtxdF@protonmail.com>\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"Language: ru_RU\n"
+
+msgid "Crear un gráfico que representa a la red junto a sus nodos"
+msgstr "Создание графика, представляющего сеть рядом с узлами"
+
+msgid "El nombre del archivo .xlsx que representará la red"
+msgstr "Имя файла .xlsx, который будет представлять сеть"
+
+msgid "Cambiar el autor de la hoja de cálculo. Sólo se aceptarán letras y números"
+msgstr "Измените автора листа. Принимаются только буквы и цифры"

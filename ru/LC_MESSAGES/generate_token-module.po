@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-06-11 21:44-0400\n"
+"PO-Revision-Date: 2020-06-13 12:08-0400\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: DtxdF <DtxdF@protonmail.com>\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"Language: ru_RU\n"
+
+msgid "Credenciales"
+msgstr "Учетные данные"
+
+msgid "Claves"
+msgstr "Ключ"
+
+msgid "Generar un token de acceso"
+msgstr "Создание маркера доступа"
+
+msgid "La red a conectar"
+msgstr "Сеть для подключения"
+
+msgid "El nombre de usuario"
+msgstr "Имя пользователя"
+
+msgid "La contraseña del usuario"
+msgstr "Пароль пользователя"
+
+msgid "La clave pública del servidor"
+msgstr "Открытый ключ сервера"
+
+msgid "La clave pública del usuario"
+msgstr "Открытый ключ пользователя"
+
+msgid "La clave privada del usuario"
+msgstr "Личный ключ пользователя"
+
+msgid "La fecha de expiración expresada en segundos"
+msgstr "Срок годности, выраженный в секундах"
