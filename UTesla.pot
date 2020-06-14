@@ -257,7 +257,7 @@ msgstr ""
 msgid "El complemento \"%s\" no provee la información necesaria"
 msgstr ""
 
-msgid "La función "MainParser" no se encuentra en el complemento \"%s\""
+msgid "La función \"MainParser\" no se encuentra en el complemento \"%s\""
 msgstr ""
 
 msgid "¡Los parámetros a analizar del complemento \"%s\" no están siguiendo un tipo de dato válido!"
@@ -298,4 +298,7 @@ msgid "Ocurrió un error inesperado en alguna operación: %s"
 msgstr ""
 
 msgid "Aún no hay complementos..."
+msgstr ""
+
+msgid "La función \"MainParser\" del complemento \"%s\" debe tener un argumento"
 msgstr ""

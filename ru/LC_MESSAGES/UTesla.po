@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2020-06-10 20:12-0400\n"
-"PO-Revision-Date: 2020-06-13 16:41-0400\n"
+"PO-Revision-Date: 2020-06-14 12:48-0400\n"
 "Last-Translator: DtxdF <DtxdF@protonmail.com>\n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -333,3 +333,7 @@ msgstr "Неожиданная ошибка произошла в некотор
 
 msgid "Aún no hay complementos..."
 msgstr "Есть нет дополнений еще ..."
+
+msgid ""
+"La función \"MainParser\" del complemento \"%s\" debe tener un argumento"
+msgstr "Функция «MainParser» дополнения «%s» должна иметь аргумент"
