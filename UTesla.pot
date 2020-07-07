@@ -302,3 +302,9 @@ msgstr ""
 
 msgid "La función \"MainParser\" del complemento \"%s\" debe tener un argumento"
 msgstr ""
+
+msgid "Borrando red \"%s\" :-("
+msgstr ""
+
+msgid "Red \"%s\" eliminada."
+msgstr ""
