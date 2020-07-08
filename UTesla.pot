@@ -308,3 +308,15 @@ msgstr ""
 
 msgid "Red \"%s\" eliminada."
 msgstr ""
+
+msgid "Todavía hay procesos abiertos. ¿Desea enviar una señal {white}<{null}{yellow}SIGKILL{null}{white}>{null}?: "
+msgstr ""
+
+msgid "mandando una señal {white}<{null}{yellow}SIGKILL{null}{white}>{null}..."
+msgstr ""
+
+msgid "Mandando una señal {white}<{null}{yellow}SIGTERM{null}{white}>{null}..."
+msgstr ""
+
+msgid "Opción inválida, eliga entre ({white}[sS]|[yY]|1{null}) ({white}afirmación{null}) o ({white}[nN]|0{null}) ({white}negación{null})"
+msgstr ""
