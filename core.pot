@@ -1,0 +1,156 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-25 19:08-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: modules/Infrastructure/core.py:101
+#, python-format
+msgid "El nombre de usuario real '%s' no existe"
+msgstr ""
+
+#: modules/Infrastructure/core.py:114
+#, python-format
+msgid "Hubo un problema extrayendo el identificador del usuario '%s'"
+msgstr ""
+
+#: modules/Infrastructure/core.py:133
+msgid "Error, la clave '{}' no existe"
+msgstr ""
+
+#: modules/Infrastructure/core.py:163
+msgid "No se indicó ninguna acción"
+msgstr ""
+
+#: modules/Infrastructure/core.py:167
+msgid "No se indicó ningún servicio"
+msgstr ""
+
+#: modules/Infrastructure/core.py:237
+msgid "No es una función"
+msgstr ""
+
+#: modules/Infrastructure/core.py:281
+msgid ""
+"El tamaño de la asignación de la memoria es muy bajo para lo requerido: {}"
+msgstr ""
+
+#: modules/Infrastructure/core.py:322
+msgid "No se han ajustado claves ed25519; generando..."
+msgstr ""
+
+#: modules/Infrastructure/core.py:355
+#, python-format
+msgid "'%s' no existe y es necesario para usarlo como servicio administrativo"
+msgstr ""
+
+#: modules/Infrastructure/core.py:357
+msgid "¡El servicio administrativo no se encuentra!"
+msgstr ""
+
+#: modules/Infrastructure/core.py:377
+#, python-format
+msgid ""
+"'%s' no existe y es el servicio requerido por el usuario, además que también "
+"es el índice"
+msgstr ""
+
+#: modules/Infrastructure/core.py:404
+#, python-format
+msgid "'%s' no existe y es el servicio requerido por el usuario"
+msgstr ""
+
+#: modules/Infrastructure/core.py:555
+#, python-format
+msgid "%s: No se puede acceder a este servicio de manera convencional"
+msgstr ""
+
+#: modules/Infrastructure/core.py:560
+msgid "No se puede acceder a este servicio"
+msgstr ""
+
+#: modules/Infrastructure/core.py:574
+#, python-format
+msgid "%s: El servicio administrativo no es válido para continuar"
+msgstr ""
+
+#: modules/Infrastructure/core.py:617
+#, python-format
+msgid "%s: No tiene permitido usar este servicio"
+msgstr ""
+
+#: modules/Infrastructure/core.py:629
+#, python-format
+msgid "%s: El servicio no está habilitado por el administrador"
+msgstr ""
+
+#: modules/Infrastructure/core.py:647
+#, python-format
+msgid "%s: La acción propuesta no existe o no está habilitada"
+msgstr ""
+
+#: modules/Infrastructure/core.py:669
+#, python-format
+msgid "%s: El método inicializador ha impedido continuar con la operación"
+msgstr ""
+
+#: modules/Infrastructure/core.py:676
+#, python-format
+msgid "%s: El servicio no existe localmente"
+msgstr ""
+
+#: modules/Infrastructure/core.py:688
+#, python-format
+msgid "%s: Hubo un error convirtiendo los tipos de datos"
+msgstr ""
+
+#: modules/Infrastructure/core.py:694
+msgid "Valor incorrecto para el parámetro: {}"
+msgstr ""
+
+#: modules/Infrastructure/core.py:700
+#, python-format
+msgid "%s: El parámetro '%s' no es un tipo de dato válido"
+msgstr ""
+
+#: modules/Infrastructure/core.py:721
+msgid "¡La verificación del mensaje no es correcta!"
+msgstr ""
+
+#: modules/Infrastructure/core.py:724
+msgid "¡El usuario '{}' no existe!"
+msgstr ""
+
+#: modules/Infrastructure/core.py:727
+msgid "Ha concluido el tiempo de espera para la recepción de datos"
+msgstr ""
+
+#: modules/Infrastructure/core.py:730
+msgid "Excepción captada"
+msgstr ""
+
+#: modules/Infrastructure/core.py:752
+msgid "Ocurrió una excepción cerrando los archivos abiertos"
+msgstr ""
+
+#: modules/Infrastructure/core.py:759
+msgid "Ocurrió una excepción cerrando los procesos aún abiertos"
+msgstr ""
+
+#: modules/Infrastructure/core.py:764
+#, python-format
+msgid "Escuchando en %s:%d"
+msgstr ""
