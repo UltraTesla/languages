@@ -1,0 +1,160 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-25 19:08-0400\n"
+"PO-Revision-Date: 2020-09-25 19:10-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: modules/Infrastructure/core.py:101
+#, python-format
+msgid "El nombre de usuario real '%s' no existe"
+msgstr "The actual username '%s' does not exist"
+
+#: modules/Infrastructure/core.py:114
+#, python-format
+msgid "Hubo un problema extrayendo el identificador del usuario '%s'"
+msgstr "There was a problem extracting the user ID '%s'"
+
+#: modules/Infrastructure/core.py:133
+msgid "Error, la clave '{}' no existe"
+msgstr "Error, the key '{}' does not exist"
+
+#: modules/Infrastructure/core.py:163
+msgid "No se indicó ninguna acción"
+msgstr "No action was indicated"
+
+#: modules/Infrastructure/core.py:167
+msgid "No se indicó ningún servicio"
+msgstr "No service was indicated"
+
+#: modules/Infrastructure/core.py:237
+msgid "No es una función"
+msgstr "It's not a function"
+
+#: modules/Infrastructure/core.py:281
+msgid ""
+"El tamaño de la asignación de la memoria es muy bajo para lo requerido: {}"
+msgstr "The size of the memory allocation is very low for what is required: {}"
+
+#: modules/Infrastructure/core.py:322
+msgid "No se han ajustado claves ed25519; generando..."
+msgstr "No keys ed25519 have been adjusted; Generating..."
+
+#: modules/Infrastructure/core.py:355
+#, python-format
+msgid "'%s' no existe y es necesario para usarlo como servicio administrativo"
+msgstr ""
+"'%s' does not exist and is required to use it as an administrative service"
+
+#: modules/Infrastructure/core.py:357
+msgid "¡El servicio administrativo no se encuentra!"
+msgstr "The administrative service is not found!"
+
+#: modules/Infrastructure/core.py:377
+#, python-format
+msgid ""
+"'%s' no existe y es el servicio requerido por el usuario, además que también "
+"es el índice"
+msgstr ""
+"'%s' does not exist and is the service required by the user, plus it is also "
+"the index"
+
+#: modules/Infrastructure/core.py:404
+#, python-format
+msgid "'%s' no existe y es el servicio requerido por el usuario"
+msgstr "'%s' does not exist and is the service required by the user"
+
+#: modules/Infrastructure/core.py:555
+#, python-format
+msgid "%s: No se puede acceder a este servicio de manera convencional"
+msgstr "%s: This service cannot be accessed conventionally"
+
+#: modules/Infrastructure/core.py:560
+msgid "No se puede acceder a este servicio"
+msgstr "This service cannot be accessed"
+
+#: modules/Infrastructure/core.py:574
+#, python-format
+msgid "%s: El servicio administrativo no es válido para continuar"
+msgstr "%s: Administrative service is not valid to continue"
+
+#: modules/Infrastructure/core.py:617
+#, python-format
+msgid "%s: No tiene permitido usar este servicio"
+msgstr "%s: You are not allowed to use this service"
+
+#: modules/Infrastructure/core.py:629
+#, python-format
+msgid "%s: El servicio no está habilitado por el administrador"
+msgstr "%s: The service is not enabled by the administrator"
+
+#: modules/Infrastructure/core.py:647
+#, python-format
+msgid "%s: La acción propuesta no existe o no está habilitada"
+msgstr "%s: The proposed action does not exist or is not enabled"
+
+#: modules/Infrastructure/core.py:669
+#, python-format
+msgid "%s: El método inicializador ha impedido continuar con la operación"
+msgstr "%s: The initializer method has prevented the operation from continuing"
+
+#: modules/Infrastructure/core.py:676
+#, python-format
+msgid "%s: El servicio no existe localmente"
+msgstr "%s: The service does not exist locally"
+
+#: modules/Infrastructure/core.py:688
+#, python-format
+msgid "%s: Hubo un error convirtiendo los tipos de datos"
+msgstr "%s: There was an error converting data types"
+
+#: modules/Infrastructure/core.py:694
+msgid "Valor incorrecto para el parámetro: {}"
+msgstr "Incorrect value for the parameter:"
+
+#: modules/Infrastructure/core.py:700
+#, python-format
+msgid "%s: El parámetro '%s' no es un tipo de dato válido"
+msgstr "%s: Parameter '%s' is not a valid data type"
+
+#: modules/Infrastructure/core.py:721
+msgid "¡La verificación del mensaje no es correcta!"
+msgstr "Message verification is incorrect!"
+
+#: modules/Infrastructure/core.py:724
+msgid "¡El usuario '{}' no existe!"
+msgstr "The user '{}' does not exist!"
+
+#: modules/Infrastructure/core.py:727
+msgid "Ha concluido el tiempo de espera para la recepción de datos"
+msgstr "The waiting time for receiving data has ended"
+
+#: modules/Infrastructure/core.py:730
+msgid "Excepción captada"
+msgstr "Exception caught"
+
+#: modules/Infrastructure/core.py:752
+msgid "Ocurrió una excepción cerrando los archivos abiertos"
+msgstr "An exception occurred by closing open files"
+
+#: modules/Infrastructure/core.py:759
+msgid "Ocurrió una excepción cerrando los procesos aún abiertos"
+msgstr "An exception occurred by closing the processes still open"
+
+#: modules/Infrastructure/core.py:764
+#, python-format
+msgid "Escuchando en %s:%d"
+msgstr "Listening in %s:%d"

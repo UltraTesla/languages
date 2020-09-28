@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-22 16:44-0400\n"
+"PO-Revision-Date: 2020-09-22 16:46-0400\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+
+#: modules/Infrastructure/errno.py:29
+msgid "El token es requerido para la autenticación"
+msgstr "The token is required for authentication"
+
+#: modules/Infrastructure/errno.py:30
+msgid "No se ha definido la acción o no está habilitada"
+msgstr "The action has not been defined or is not enabled"
+
+#: modules/Infrastructure/errno.py:31
+msgid "El token ha expirado"
+msgstr "The token has expired"
+
+#: modules/Infrastructure/errno.py:32
+msgid "Error interno en el servidor"
+msgstr "Internal server error"
+
+#: modules/Infrastructure/errno.py:33
+msgid "El usuario no existe"
+msgstr "The user does not exist"
+
+#: modules/Infrastructure/errno.py:34
+msgid "Petición inválida"
+msgstr "Invalid petition"
+
+#: modules/Infrastructure/errno.py:35
+msgid "Límites de tokens alcanzados"
+msgstr "Token limits reached"
+
+#: modules/Infrastructure/errno.py:36
+msgid "El servicio no está habilitado"
+msgstr "The service is not enabled"
+
+#: modules/Infrastructure/errno.py:37
+msgid "Permiso denegado"
+msgstr "Permission denied"

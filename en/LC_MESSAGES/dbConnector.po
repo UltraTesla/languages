@@ -1,0 +1,84 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-27 17:45-0400\n"
+"PO-Revision-Date: 2020-09-27 17:46-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: modules/Infrastructure/dbConnector.py:61
+msgid "El usuario no existe"
+msgstr "The user does not exist"
+
+#: modules/Infrastructure/dbConnector.py:93
+#, python-format
+msgid "Creando nuevo usuario: %s"
+msgstr "Creating new user: %s"
+
+#: modules/Infrastructure/dbConnector.py:106
+#, python-format
+msgid "Usuario %s (%s) creado satisfactoriamente"
+msgstr "User %s (%s) successfully created"
+
+#: modules/Infrastructure/dbConnector.py:139
+#, python-format
+msgid "¡Cambiando la contraseña del usuario con el identificador: ID:%d!"
+msgstr "Changing the user's password with ID: ID:%d!"
+
+#: modules/Infrastructure/dbConnector.py:150
+#, python-format
+msgid "Se ha cambiado satisfactoriamente la contraseña del usuario: ID:%d"
+msgstr "The user's password has been successfully changed: ID:%d"
+
+#: modules/Infrastructure/dbConnector.py:169
+#, python-format
+msgid "¡Borrando usuario con el identificador: ID:%d!"
+msgstr "Deleting user with ID: ID:%d!"
+
+#: modules/Infrastructure/dbConnector.py:180
+#, python-format
+msgid "El usuario con el identificador '%d' ha sido borrado satisfactoriamente"
+msgstr "User with ID '%d' has been successfully deleted"
+
+#: modules/Infrastructure/dbConnector.py:326
+msgid "Límites de los tokens excedidos"
+msgstr "Limits on exceeded tokens"
+
+#: modules/Infrastructure/dbConnector.py:358
+msgid "Renovando token de acceso..."
+msgstr "Renewing access token..."
+
+#: modules/Infrastructure/dbConnector.py:402
+#, python-format
+msgid "Creando un nuevo token para el identificador de usuario: ID:%d"
+msgstr "Creating a new token for the user ID: ID:%d"
+
+#: modules/Infrastructure/dbConnector.py:427
+msgid "El token no existe"
+msgstr "The token does not exist"
+
+#: modules/Infrastructure/dbConnector.py:600
+#, python-format
+msgid "¡Borrando la red con el identificador: ID:%d!"
+msgstr "Deleting the network with id: ID:%d!"
+
+#: modules/Infrastructure/dbConnector.py:607
+#, python-format
+msgid "La red con el identificador '%d' ha sido borrado satisfactoriamente"
+msgstr "The network with id '%d' has been successfully deleted"
+
+#: modules/Infrastructure/dbConnector.py:859
+msgid "La función a llamar no se encuentra"
+msgstr "The function to be called is not found"

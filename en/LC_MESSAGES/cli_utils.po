@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-23 20:30-0400\n"
+"PO-Revision-Date: 2020-09-23 20:44-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: cli_utils/config.py:16
+msgid "El diccionario '{}' no existe"
+msgstr "The '{}' dictionary does not exist"
+
+#: cli_utils/config.py:24
+msgid "Tipo de dato incorrecto en el diccionario '{}'"
+msgstr "Incorrect data type in the '{}' dictionary"
+
+#: cli_utils/config.py:37
+msgid "El tipo de dato de la descripción es incorrecto"
+msgstr "The data type of the description is incorrect"
+
+#: cli_utils/config.py:40
+msgid "El tipo de dato de los espacios de trabajos es incorrecto"
+msgstr "The data type of workspaces is incorrect"
+
+#: cli_utils/config.py:43
+msgid "El tipo de dato de las opciones para la línea de comandos es incorrecto"
+msgstr "The data type of options for the command line is incorrect"
+
+#: cli_utils/config.py:46
+msgid "El tipo de dato del número de versión es incorrecto"
+msgstr "The version number data type is incorrect"
+
+#: cli_utils/config.py:49
+msgid "El tipo de dato de la opción de persistencia en incorrecto"
+msgstr "The data type of the persistence option in wrong"
+
+#: cli_utils/config.py:52
+msgid ""
+"El tipo de dato del índice que indica qué espacio de trabajos usar es "
+"incorrecto"
+msgstr ""
+"The type of index data that indicates which workspace to use is incorrect"
+
+#: cli_utils/config.py:122
+msgid "La función '{}' no existe"
+msgstr "The '{}' function does not exist"
+
+#: cli_utils/config.py:129
+msgid "'{}' no es una función"
+msgstr "'{}' is not a function"
+
+#: cli_utils/config.py:135
+msgid "La función '{}' debe recibir sólo un argumento"
+msgstr "The '{}' function should receive only one argument"
+
+#: cli_utils/config.py:141
+msgid "La función '{}' no debe recibir argumentos clave"
+msgstr "The '{}' function should not receive key arguments"

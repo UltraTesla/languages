@@ -1,0 +1,28 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-22 15:32-0400\n"
+"PO-Revision-Date: 2020-09-22 15:34-0400\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+
+#: modules/Infrastructure/client.py:150
+msgid "La clave pública del servidor aún no ha sido definida"
+msgstr "The server's public key has not yet been defined"
+
+#: modules/Infrastructure/client.py:191
+#, python-format
+msgid "Reintento %d de %d para volver a intentar conectar con %s:%d en %d segundos"
+msgstr "Retry %d of %d to retry connecting to %s:%d in %d seconds"
